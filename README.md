@@ -1,4 +1,4 @@
-cara.md
+[Panduan tanya jawab](https://github.com/fiqihbadrian/PKL/blob/main/cara.md)
 
 ---
 
