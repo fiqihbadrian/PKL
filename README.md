@@ -1,10 +1,12 @@
-Kerangka Teori
-
-KERANGKA TEORI
+cara.md
 
 ---
 
-# **1. Servis Printer Epson:**
+# KERANGKA TEORI
+
+---
+
+## **1. Servis Printer Epson:**
 
 **Masalah Umum pada Printer Inkjet:**
 - Hasil Cetakan yang Buram atau Terputus-putus: Hal ini sering terjadi karena tinta yang tersumbat atau kualitas tinta yang buruk. Penyumbatan bisa terjadi di nozzle printhead yang mengarah ke masalah cetakan yang tidak merata atau bahkan tidak keluar tinta sama sekali.
@@ -32,7 +34,7 @@ KERANGKA TEORI
 
 ---
 
-# **2. Servis Laptop (Ganti/Upgrade SSD dan Instalasi Ulang Windows):**
+## **2. Servis Laptop (Ganti/Upgrade SSD dan Instalasi Ulang Windows):**
 
 **Pentingnya SSD dalam Kinerja Laptop:**
 - Kecepatan dan Kinerja: SSD (Solid State Drive) adalah perangkat penyimpanan yang lebih cepat dibandingkan dengan HDD (Hard Disk Drive). Kecepatan baca dan tulis data pada SSD jauh lebih tinggi, yang membuat laptop bisa booting lebih cepat, aplikasi berjalan lebih lancar, dan transfer data lebih cepat.
